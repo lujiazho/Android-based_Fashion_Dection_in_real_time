@@ -1,0 +1,94 @@
+item {
+ id: 1
+ name: 'coat'
+}
+
+item {
+ id: 2
+ name: 'dress'
+}
+
+item {
+ id: 3
+ name: 'shoe'
+}
+
+item {
+ id: 4
+ name: 'T-shirt'
+}
+
+item {
+ id: 5
+ name: 'skirt'
+}
+
+item {
+ id: 6
+ name: 'stocking'
+}
+
+item {
+ id: 7
+ name: 'bag'
+}
+
+item {
+ id: 8
+ name: 'belt'
+}
+
+item {
+ id: 9
+ name: 'blouse'
+}
+
+item {
+ id: 10
+ name: 'pants'
+}
+
+item {
+ id: 11
+ name: 'scarf'
+}
+
+item {
+ id: 12
+ name: 'sweater'
+}
+
+item {
+ id: 13
+ name: 'hat'
+}
+
+item {
+ id: 14
+ name: 'blazer'
+}
+
+item {
+ id: 15
+ name: 'jeans'
+}
+
+item {
+ id: 16
+ name: 'sunglass'
+}
+
+item {
+ id: 17
+ name: 'shorts'
+}
+
+item {
+ id: 18
+ name: 'socks'
+}
+
+item {
+ id: 19
+ name: 'legging'
+}
