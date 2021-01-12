@@ -12,7 +12,9 @@ $ pip install -r requirements.txt
 
 # Example for Custom Dataset
 - Download Color-Fashion Dataset
+```
 $ cd Android-based_Fashion_Dection_in_real_time
+
 # if needed
 # !chmod +x download.sh
 $ ./download.sh
@@ -20,14 +22,16 @@ $ ./download.sh
 $ mv data ../code/data.zip
 
 $ unzip ../code/data.zip > /dev/null 
-
+```
 - Dataset Format Transformation
 Packing training and testing data into a specific file format which is ".tfrecord", you can do this by run 
 ```
 $ cd ../code
--- Transform test data
+
+# Transform test data
 $ python generate_tfrecord.py --csv_input ../sources/test_labels.csv --output_path test.record
--- Transform train data
+
+# Transform train data
 $ python generate_tfrecord.py --csv_input ../sources/train_labels.csv --output_path train.record
 ```
 
