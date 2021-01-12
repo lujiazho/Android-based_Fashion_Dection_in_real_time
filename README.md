@@ -1,6 +1,8 @@
 # Android-based Fashion Dection in real time
 This repository applies transfer-learning-based object detection on [Color-Fashion Dataset](https://sites.google.com/site/fashionparsing/dataset) and deployed the .tflite model on Android to detect in real time.
 
+[![Watch the video](https://github.com/leaving-voider/Android-based_Fashion_Dection_in_real_time/blob/master/sources/detect.png)](https://youtu.be/4sShfjO0PY4)
+
 # Download and Requirements
 ```
 $ git clone https://github.com/leaving-voider/Android-based_Fashion_Dection_in_real_time.git
